@@ -16,12 +16,7 @@ public class FoodTruck {
 		this.rating = rating;
 	}
 
-	
-	
 
-//	Method to print output for menu selection 1.
-//	Method to print output for menu selection 2.
-//	Method to print output for menu selection 3.
 
 	public int getTruckID() {
 		return truckID;
@@ -61,7 +56,6 @@ public class FoodTruck {
 	public void setRating(double rating) {
 		this.rating = rating;
 	}
-	
 	
 
 }
